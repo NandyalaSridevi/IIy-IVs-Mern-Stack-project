@@ -1,0 +1,12 @@
+CraveKart frontend needs a local server.
+
+To open it correctly on Windows:
+1. Double-click start-frontend.bat
+2. Wait until it says the server started on http://localhost:8000
+3. Open http://localhost:8000 in your browser
+
+Admin page:
+http://localhost:8000/admin.html
+
+If you open a saved browser shortcut before starting the server,
+you may see "This site can't be reached".
